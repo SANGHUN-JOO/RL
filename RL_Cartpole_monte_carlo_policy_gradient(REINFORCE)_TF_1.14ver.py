@@ -1,3 +1,7 @@
+# https://github.com/seungeunrho/minimalRL
+# https://github.com/hunkim/ReinforcementZeroToAll
+# Sites of references
+
 import gym
 import numpy as np
 import tensorflow as tf
